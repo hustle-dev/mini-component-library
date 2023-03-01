@@ -88,6 +88,7 @@ const IconWrapper = styled.div`
   width: var(--size);
   height: var(--size);
   margin: auto;
+  pointer-events: none;
 `;
 
 const CustomInput = styled.input`
